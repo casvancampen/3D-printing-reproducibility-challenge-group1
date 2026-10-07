@@ -7,13 +7,19 @@ Step-by-step instructions - Group 1.
 # Preparation:
 1) Log into one of the three computers at Lili's Proto Lab in the 3D printing workspace. The password is on the monitor. 
 2) Download all the .step files from this Github in Hardware-folder. 
-3) Open the .step files in PrusaSlicer on the computer. 
+3) Open the .step files in PrusaSlicer on the computer.
+<img src="images/PrusaSlicer.jpeg" width=100>
+
 4) The objectes from the files will be stacked on top of eachother. Move them around, and make sure they are not touching eachother. Try to limit the space between them to limit printing time.
 5) Make sure the base of each object is a flat surface. You can check this by moving your view to see the bottom of the objects. If not, flip the object by making use of the flip-icon on the left toolbar. 
     - Probably one of the big rectangle bases should be flipped and the gearbox_drivegear_v2.
+
 6) If your happy with everything, press "Slice now" on the bottom right.
 
-# Settings in the PrusaSLicer (top right):
+<img src="images/StepFilesInSlicer.jpeg" width=800>
+<img src="images/SlicedG-Code.jpeg" width=800>
+
+# Settings in the PrusaSlicer (top right):
 Look for an available printer and look at its nozzle size
 - Print settings: Set this to half the nozzle size of your printer. We used a 0.40 mm nozzle, so 0.20 mm Structural print settings.
 - Filament: Pick a suitable filament. We used EcoPLA - 220C (Magic-Ultra Satin)
