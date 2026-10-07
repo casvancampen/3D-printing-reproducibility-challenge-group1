@@ -1,6 +1,9 @@
 # 3D printing reproducibility challenge Group 1
  
-In this repository, you will find all information you need to reproduce the 3D printed Gearbox
+In this repository, you will find all information you need to reproduce the 3D printed Gearbox.
+The goal is to 3D-print and put together a gearbox, so we can spin a big plate at 8rmp and 50 rmp.(See picture below)
+
+<img src="images/SpinThePlateSetUp.jpeg" width=800>
 
 
 Step-by-step instructions - Group 1.
@@ -50,7 +53,7 @@ Go to your printer and follow the steps below.
 4) Sit back and relax, and enjoy your creation.
 
 
-#Putting together the gearbox
+# Putting together the gearbox
 Once your printer is done, leave the printed parts for some minutes on the printer so it can cool. Otherwise, deformations will occur.
 In the meantime, gather the following parts:
 - 4 Nuts
@@ -59,3 +62,11 @@ In the meantime, gather the following parts:
 - 1 Bearing that fits the big hole in the top plate
 - Rubber wheel with rubber band put in it (All in the same drawer)
 - Motor (Ask someone from Lili's Protolab)
+
+After you took your 3D printed parts off the sheet. Make sure there is no stuff inside the holes where the bolts need to go through. You can clean the inside by taking a drillmachine and a fitting drill bit for the holes (don't go too big).
+Now, look at the picture below, how to ensemble the gearbox. (Tip: Add the motor and drivegear as last)
+
+<img src="images/OverallLookIntoTheGearBox.jpeg" width=500>
+
+Once, you've added the motor to it, it is time to complete the build with a rubber wheel. We hotglued the wheel onto the gearbox and used a small plastic nut as padding for the hole.
+IMPORTANT!     Glue the rubber wheel at the correct height, after glueing, there is no way back. (Tip: try to mount your gearbox inside the table clamp first and compare heights with the big spinning plate.
