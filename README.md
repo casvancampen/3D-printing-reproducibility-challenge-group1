@@ -42,3 +42,14 @@ Go to your printer and follow the steps below.
 2) Send the G-code to the printer. (Bottom right symbol with a G)
 3) Select print on the printer!
 4) Sit back and relax, and enjoy your creation.
+
+
+#Putting together the gearbox
+Once your printer is done, leave the printed parts for some minutes on the printer so it can cool. Otherwise, deformations will occur.
+In the meantime, gather the following parts:
+- 4 Nuts
+- 6 long bolts (long enough to go hold the top and bottom plate together)
+- 5-7 very thin plastic washers
+- 1 Bearing that fits the big hole in the top plate
+- Rubber wheel with rubber band put in it (All in the same drawer)
+- Motor (Ask someone from Lili's Protolab)
