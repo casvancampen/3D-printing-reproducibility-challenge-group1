@@ -65,8 +65,14 @@ In the meantime, gather the following parts:
 
 After you took your 3D printed parts off the sheet. Make sure there is no stuff inside the holes where the bolts need to go through. You can clean the inside by taking a drillmachine and a fitting drill bit for the holes (don't go too big).
 Now, look at the picture below, how to ensemble the gearbox. (Tip: Add the motor and drivegear as last)
+Check how smoothly the gearbox operates now and then.
 
 <img src="images/OverallLookIntoTheGearBox.jpeg" width=500>
 
 Once, you've added the motor to it, it is time to complete the build with a rubber wheel. We hotglued the wheel onto the gearbox and used a small plastic nut as padding for the hole.
 IMPORTANT!     Glue the rubber wheel at the correct height, after glueing, there is no way back. (Tip: try to mount your gearbox inside the table clamp first and compare heights with the big spinning plate.
+
+<img src="images/FrictionWheelHeight.jpeg" width=300>
+
+After all this, we can try and spin the plate. Mount your gearbox in the table clamp. Let the rubber wheel be in contact with the big spinning plate. Connect the motor with a powersupply (Ask Staff) and try to make the wheel spin! 
+After your confident enough that your gearbox works together with the rubber wheel, we can try to measure the rpm and try to regulate the rotation speed of the big plate.
