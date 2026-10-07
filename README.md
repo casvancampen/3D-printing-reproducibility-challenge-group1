@@ -20,7 +20,7 @@ Look for an available printer and look at its nozzle size
 - Printer: Click on the printer you want to use. If there is finished work on the printer, make sure you remove it gently. 
 - Supports: For support enforcers only
 - Infill: 15%
-- Brim: unchecked (It will make the gears more smooth around the edges).
+- Brim: unchecked (It will make the gears more smooth around the edges. We found out the hard way, so ignore that one checked in the screenshots)
 
 # Prepare the printer:
 Go to your printer and follow the steps below.
