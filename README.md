@@ -6,6 +6,7 @@ The goal is to 3D-print and put together a gearbox, so we can spin a big plate a
 <img src="images/SpinThePlateSetUp.jpeg" width=800>
 
 # Lili's Protolab tutorial to Printing
+Watch this video as preperation for the following steps. It will show you how the 3D printer works and is prepared for printing.
 https://www.youtube.com/watch?v=xhjW_MdcCrw&t=6s
 
 
@@ -92,7 +93,7 @@ Put the sensor under the edge of the spinning plate. THere are small magnets und
 <img src="images/rpmSensorSetUp.jpeg" width=800>
 
 Now, if all of this works, you can try to tweak with the voltage to let the plate spin at 8 rmp and 50 rmp.
-It should be around 1V for 8 rmp and ...V for 50 rmp.
+It should be around 1V for 8 rmp and 4.5V for 50 rmp.
 
 <img src="images/8rpmVoltage.jpeg" width=800>
 <img src="images/50rpmVoltage.jpeg" width=800>
