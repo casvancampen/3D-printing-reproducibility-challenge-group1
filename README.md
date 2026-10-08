@@ -77,4 +77,7 @@ IMPORTANT!     Glue the rubber wheel at the correct height, after glueing, there
 <img src="images/FrictionWheelHeight.jpeg" width=300>
 
 After all this, we can try and spin the plate. Mount your gearbox in the table clamp. Let the rubber wheel be in contact with the big spinning plate. Connect the motor with a powersupply (Ask Staff) and try to make the wheel spin! 
+
+# Measure the RMP of the big plate
 After your confident enough that your gearbox works together with the rubber wheel, we can try to measure the rpm and try to regulate the rotation speed of the big plate.
+You did Arduino, so i assume you have the Arduino IDE app on your laptop. Open the app and copy paste the code from this Github in the Software-folder.
