@@ -5,6 +5,8 @@ The goal is to 3D-print and put together a gearbox, so we can spin a big plate a
 
 <img src="images/SpinThePlateSetUp.jpeg" width=800>
 
+# Lili's Protolab tutorial to Printing
+https://www.youtube.com/watch?v=xhjW_MdcCrw&t=6s
 
 Step-by-step instructions - Group 1.
 # Preparation:
