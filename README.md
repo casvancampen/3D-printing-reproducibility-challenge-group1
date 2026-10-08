@@ -8,7 +8,7 @@ The goal is to 3D-print and put together a gearbox, so we can spin a big plate a
 # Lili's Protolab tutorial to Printing
 https://www.youtube.com/watch?v=xhjW_MdcCrw&t=6s
 
-Step-by-step instructions - Group 1.
+
 # Preparation:
 1) Log into one of the three computers at Lili's Proto Lab in the 3D printing workspace. The password is on the monitor. 
 2) Download all the .step files from this Github in Hardware-folder. 
