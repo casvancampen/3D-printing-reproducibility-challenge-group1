@@ -82,10 +82,17 @@ After all this, we can try and spin the plate. Mount your gearbox in the table c
 After your confident enough that your gearbox works together with the rubber wheel, we can try to measure the rpm and try to regulate the rotation speed of the big plate.
 You did Arduino, so i assume you have the Arduino IDE app on your laptop. Open the app and copy paste the code from this Github in the Software-folder.
 Select "Arduino Nano" in the top left. Then, check and upload the code to the Arduino. (See screenshot below)
+Make sure you open the Serial Monitor and see if anything is detected when the plate is spinning. For a good overview, i would recommend to comment out "Signal found", then you only get the rmp.
 
 <img src="images/ScreenshotArduinoCode.jpeg" width=800>
 
 # Set up rmp measuring Hardware
 Put the sensor under the edge of the spinning plate. THere are small magnets under the plate, so if the plate spins, the sensor sensen this and the code will compute the rmp for you.
-Make sure you open the Serial Monitor and see if anything is detected when the plate is spinning. For a good overview, i would recommend to comment out "Signal found", then you only get the rmp.
+
+<img src="images/rpmSensorSetUp.jpeg" width=800>
+
 Now, if all of this works, you can try to tweak with the voltage to let the plate spin at 8 rmp and 50 rmp.
+It should be around 1V for 8 rmp and ...V for 50 rmp.
+
+<img src="images/8rpmVoltage.jpeg" width=800>
+<img src="images/50rpmVoltage.jpeg" width=800>
