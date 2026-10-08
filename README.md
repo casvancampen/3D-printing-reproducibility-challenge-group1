@@ -1,7 +1,7 @@
 # 3D printing reproducibility challenge Group 1
  
 In this repository, you will find all information you need to reproduce the 3D printed Gearbox.
-The goal is to 3D-print and put together a gearbox, so we can spin a big plate at 8rmp and 50 rmp.(See picture below)
+The goal is to 3D-print and put together a gearbox, so we can spin a big plate at 8rpm and 50 rpm.(See picture below)
 
 <img src="images/SpinThePlateSetUp.jpeg" width=800>
 
@@ -79,21 +79,21 @@ IMPORTANT!     Glue the rubber wheel at the correct height, after glueing, there
 
 After all this, we can try and spin the plate. Mount your gearbox in the table clamp. Let the rubber wheel be in contact with the big spinning plate. Connect the motor with a powersupply (Ask Staff) and try to make the wheel spin! 
 
-# Set up rmp measuring Software
+# Set up rpm measuring Software
 After your confident enough that your gearbox works together with the rubber wheel, we can try to measure the rpm and try to regulate the rotation speed of the big plate.
 You did Arduino, so i assume you have the Arduino IDE app on your laptop. Open the app and copy paste the code from this Github in the Software-folder.
 Select "Arduino Nano" in the top left. Then, check and upload the code to the Arduino. (See screenshot below)
-Make sure you open the Serial Monitor and see if anything is detected when the plate is spinning. For a good overview, i would recommend to comment out "Signal found", then you only get the rmp.
+Make sure you open the Serial Monitor and see if anything is detected when the plate is spinning. For a good overview, i would recommend to comment out "Signal found", then you only get the rpm.
 
 <img src="images/ScreenshotArduinoCode.jpeg" width=800>
 
-# Set up rmp measuring Hardware
-Put the sensor under the edge of the spinning plate. THere are small magnets under the plate, so if the plate spins, the sensor sensen this and the code will compute the rmp for you.
+# Set up rpm measuring Hardware
+Put the sensor under the edge of the spinning plate. THere are small magnets under the plate, so if the plate spins, the sensor sensen this and the code will compute the rpm for you.
 
 <img src="images/rpmSensorSetUp.jpeg" width=800>
 
-Now, if all of this works, you can try to tweak with the voltage to let the plate spin at 8 rmp and 50 rmp.
-It should be around 1V for 8 rmp and 4.5V for 50 rmp.
+Now, if all of this works, you can try to tweak with the voltage to let the plate spin at 8 rpm and 50 rpm.
+It should be around 1V for 8 rpm and 4.5V for 50 rpm.
 
 <img src="images/8rpmVoltage.jpeg" width=800>
 <img src="images/50rpmVoltage.jpeg" width=800>
